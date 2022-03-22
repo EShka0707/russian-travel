@@ -1,9 +1,15 @@
 .cover__overlay {
     max-width: 1184px;
     margin: 0 auto;
-    position: relative;
+    background: #2A2C2F; 
+    opacity: 0.3;
 }
 .cover__overlay:hover {
-    background: #2A2C2F;
-    opacity: 0.3;
+    background: #2A2C2F; 
+    opacity: 0.8;
+}
+@media screen and (max-width: 990px) {
+    .cover__overlay {
+        max-height: 480px;
+    }
 }
