@@ -12,3 +12,27 @@
     transform: translate(-50%, -80%);
     z-index: 2;
 }
+@media screen and (min-width: 1440px) {
+    .cover__subtitle {
+        font-size: 30px;
+        max-width: 600px;
+        line-height: 30px;
+    }
+}
+@media screen and (max-width: 992px) {
+    .cover__subtitle {
+        padding-top: 40px;
+    }
+}
+@media screen and (max-width: 767px) {
+    .cover__subtitle {
+        max-width: 280px;
+        font-size: 14px;
+        line-height: 16px;
+    }
+}
+@media screen and (max-width: 423px) {
+    .cover__subtitle {
+        top: 70%;
+    }
+}

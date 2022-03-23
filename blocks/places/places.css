@@ -3,6 +3,11 @@
     max-width: 1000px;
     margin: 0 auto;
 }
+@media screen and (min-width: 1440px) {
+    .places {
+        padding: 150px 0;
+    }
+}
 @media screen and (max-width: 768px) {
     .places {
         padding: 88px 0 90px;

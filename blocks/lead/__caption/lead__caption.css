@@ -8,3 +8,8 @@
     color: #FFFFFF;
     text-align: left;
 }
+@media screen and (min-width: 1440px) {
+    .lead__caption {
+        font-size: 15px;
+    }
+}

@@ -34,7 +34,7 @@
 @import url(../blocks/place/__website/place__website.css);
 @import url(../blocks/place/__website/__url-heading/place__website__url-heading.css);
 @import url(../blocks/place/__website/__link/place__website__link.css);
-@import url(../blocks/place/__paragraph-items/place__paragraph-item.css);
+@import url(../blocks/place/__paragraph-items/place__paragraph-items.css);
 @import url(../blocks/place/__paragraph/place__paragraph.css);
 
 @import url(../blocks/cover/cover.css);

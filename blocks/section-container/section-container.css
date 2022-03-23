@@ -2,6 +2,11 @@
     max-width: 928px;
     margin: 0 auto;
 }
+@media screen and (min-width: 1440px) {
+    .section-container {
+        max-width: 1500px;
+    }
+}
 @media screen and (max-width: 990px) {
     .section-container {
         max-width: 720px;

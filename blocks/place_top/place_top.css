@@ -1,6 +1,11 @@
 .place_top {
     padding-top: 80px;
 }
+@media screen and (min-width: 1440px) {
+    .place_top {
+        padding-top: 120px;
+    }
+}
 @media screen and (max-width: 768px) {
     .place_top {
         padding-top: 73px;

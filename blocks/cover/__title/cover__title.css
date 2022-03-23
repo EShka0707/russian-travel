@@ -12,3 +12,16 @@
     transform: translate(-50%, -80%);
     z-index: 2;
 }
+@media screen and (min-width: 1440px) {
+    .cover__title {
+        font-size: 100px;
+        max-width: 800px;
+    }
+}
+@media screen and (max-width: 767px) {
+    .cover__title {
+        max-width: 250px;
+        font-size: 32px;
+        line-height: 35px;
+    }
+}

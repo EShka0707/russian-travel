@@ -5,6 +5,12 @@
     grid-template-columns: repeat(auto-fit, 284px);
     grid-template-rows: repeat(3, 216px);
 }
+@media screen and (min-width: 1440px) {
+    .photo__items {
+        grid-template-columns: repeat(auto-fit, 500px);
+        grid-template-rows: repeat(3, 350px);
+    }
+}
 
 @media screen and (max-width: 1024px) {
     .photo__items {
