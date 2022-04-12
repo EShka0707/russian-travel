@@ -15,6 +15,8 @@
 
 * [Ссылка на макет в Figma](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile?node-id=28503%3A0)
 
+* [Ссылка на проект в GitHab](https://github.com/EShka0707/russian-travel.git)
+
 **Картинки**
 
 Доставать картинки предстоит из Фигмы. Это расхожая практика, поэтому полезно потренироваться.
