@@ -4,9 +4,3 @@
     line-height: 18px;
     color: #FFFFFF;
 }
-@media screen and (min-width: 1440px) {
-    .intro__item {
-        font-size: 17px;
-        line-height: 20px;
-    }
-}

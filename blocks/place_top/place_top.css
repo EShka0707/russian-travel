@@ -11,3 +11,8 @@
         padding-top: 73px;
     }
 }
+@media screen and (max-width: 575px) {
+    .place_top {
+        padding-top: 50px;
+    }
+}

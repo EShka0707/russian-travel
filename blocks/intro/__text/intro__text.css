@@ -7,9 +7,3 @@
     margin: 0;
     padding-bottom: 33px;
 }
-@media screen and (min-width: 1440px) {
-    .intro__text {
-        max-width: 1000px;
-        font-size: 20px;
-    }
-}
