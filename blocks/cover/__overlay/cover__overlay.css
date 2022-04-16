@@ -11,20 +11,9 @@
     align-items: center;
     margin: 0 auto;
     color: #fff;
-    /* z-index: 1;
-    background-color: rgba(0, 0, 0, 0.3); */
 }
 
-/* .cover__overlay:hover {
-    background: #2A2C2F; 
-    opacity: 0.8;
-} */
-/* @media screen and (max-width: 1440px) {
-    .cover__overlay {
-        padding: 195px;
-    }
-} */
-@media screen and (max-width: 1050px) {
+@media screen and (max-width: 1024px) {
     .cover__overlay {
         padding: 130px 50px;
     }
@@ -39,7 +28,6 @@
         padding: 50px 30px;
     }
 }
-
 .cover__overlay::before {
     content: "";
     position: absolute;
