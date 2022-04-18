@@ -1,29 +1,29 @@
 @font-face {
     font-family: 'Inter';
-    src: url(../fonts/Inter/Inter-Regular.woff);
-    src: url(../fonts/Inter/Inter-Regular.woff2);
+    src: url(./Inter/Inter-Regular.woff);
+    src: url(./Inter/Inter-Regular.woff2);
     font-style: normal;
     font-weight: 400;
 }
 @font-face {
     font-family: 'Inter';
-    src: url(../fonts/Inter/Inter-SemiBold.woff);
-    src: url(../fonts/Inter/Inter-SemiBold.woff2);
+    src: url(./Inter/Inter-SemiBold.woff);
+    src: url(./Inter/Inter-SemiBold.woff2);
     font-style: normal;
     font-weight: 600;
 }
 @font-face {
     font-family: 'Inter';
-    src: url(../fonts/Inter/Inter-Bold.woff);
-    src: url(../fonts/Inter/Inter-Bold.woff2);
+    src: url(./Inter/Inter-Bold.woff);
+    src: url(./Inter/Inter-Bold.woff2);
     font-style: normal;
     font-weight: 700;
 }
 
 @font-face {
     font-family: 'Inter';
-    src: url(../fonts/Inter/inter-Black.woff);
-    src: url(../fonts/Inter/Inter-Black.woff2);
+    src: url(./Inter/inter-Black.woff);
+    src: url(./Inter/inter-Black.woff2);
     font-style: normal;
     font-weight: 900;
 }
